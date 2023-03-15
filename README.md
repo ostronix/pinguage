@@ -1,5 +1,5 @@
-[![npm](https://img.shields.io/npm/dt/brain.js.svg?style=flat-square)](https://npmjs.com/package/whichx-utils) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
-[![npm](https://img.shields.io/npm/v/bananabots)](https://www.npmjs.com/package/pinguage)[![npm](https://img.shields.io/npm/dt/bananabots.svg)](https://www.npmjs.com/package/pinguage)[![npm](https://img.shields.io/npm/dm/bananabots.svg)](https://www.npmjs.com/package/pinguage)
+[![npm](https://img.shields.io/npm/dt/pinguage.svg?style=flat-square)](https://npmjs.com/package/pinguage) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
+[![npm](https://img.shields.io/npm/v/pinguage)](https://www.npmjs.com/package/pinguage)[![npm](https://img.shields.io/npm/dt/pinguage.svg)](https://www.npmjs.com/package/pinguage)[![npm](https://img.shields.io/npm/dm/pinguage.svg)](https://www.npmjs.com/package/pinguage)
 
 ## Pinguage v1.2.0 
 <h1><p style="text-align: center" align="center">Pinguage</p></h1>
