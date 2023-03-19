@@ -7,12 +7,12 @@
 <h1><p><i>Pinguage - Get ping in one click!</i></p> </h1>
 
 ## Install to YARN
-```console
+```shell
 yarn add pinguage
 ```
 
 ## Install to NPM
-```console
+```shell
 npm install pinguage --save
 ```
 
