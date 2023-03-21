@@ -1,5 +1,7 @@
-import ping from 'pinguage'
+import { window } from "pinguage";
 
-const getPing = async () => await ping.request ('https://api.vk.com')
+const api = async () => await window ("https://api.vk.com", async response => {
+    console.log (response) // response
+})
 
-exports.ping = getPing ()
+api ()
